@@ -1,6 +1,6 @@
 require "jwplayer/version"
 
-module Jwplayer::Rails
+module Jwplayer
   module Helper
     DEFAULT_OPTIONS = {id: 'jwplayer',flashplayer: '/assets/jwplayer.flash.swf',width: '400',height: '300'}
 
