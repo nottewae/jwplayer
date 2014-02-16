@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Jwplayer::VERSION
   spec.authors       = ["nottewae"]
   spec.email         = ["nottewae@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{jwplayer integration}
+  spec.description   = %q{jwplayer integration in rails 4}
   spec.homepage      = ""
   spec.license       = "MIT"
 
